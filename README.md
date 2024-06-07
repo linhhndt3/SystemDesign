@@ -12,6 +12,6 @@ Example:
   - Cache
   - CDN
 
-+ Implement a cordinator application for distributing data to databases
++ Implement a cordinator application for sharding
   - using normal hashing
   - using consisten hashing
