@@ -15,3 +15,5 @@ Example:
 + Implement a cordinator application for sharding
   - using normal hashing
   - using consisten hashing
++ Implement a auto scale system and prove it works as expect
+  https://www.geeksforgeeks.org/auto-scaling-microservices-with-eureka-and-spring-boot/
