@@ -17,3 +17,4 @@ Example:
   - using consisten hashing
 + Implement a auto scale system and prove it works as expect
   https://www.geeksforgeeks.org/auto-scaling-microservices-with-eureka-and-spring-boot/
++ Implement symmetric and asymmetric encryption
